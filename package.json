@@ -1,0 +1,17 @@
+{
+  "name": "microscopio-de-frecuencia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modelo de Cole: ver la corriente atravesar las membranas al subir la frecuencia. TP6 de Modelos y Simulación, UNTDF",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "verificar": "node verificacion/verificar.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}
