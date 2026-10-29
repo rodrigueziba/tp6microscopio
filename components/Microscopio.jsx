@@ -133,8 +133,7 @@ export default function Microscopio() {
           La bioimpedancia se mide pasando una corriente alterna por el tejido y
           subiendo la frecuencia. Acá se ve por qué eso dice algo: en baja frecuencia la
           corriente no puede cruzar las membranas y las rodea; al subir, empieza a
-          atravesarlas. El Modelo de Cole del Trabajo Práctico 6 es, exactamente, la
-          cuenta de ese reparto.
+          atravesarlas. 
         </p>
       </header>
 
@@ -177,11 +176,10 @@ export default function Microscopio() {
 
       <footer className="pie">
         <p>
-          Modelos y Simulación 2026 · Licenciatura en Medios Audiovisuales, UNTDF ·
-          Ezequiel Rodríguez Ibarra. El reparto de corriente que se ve no es una
-          ilustración: sale del circuito equivalente del Modelo de Cole, y el motor de
+          Modelos y Simulación 2026 · Licenciatura en Sistemas, UNTDF ·
+          Ezequiel Rodríguez Ibarra. El reparto de corriente que se ve sale del circuito equivalente del Modelo de Cole, y el motor de
           esta página da los mismos números que la resolución del práctico hecha en
-          Python, hasta la novena cifra.
+          Python.
         </p>
       </footer>
     </div>
